@@ -2,6 +2,7 @@
 **NOTE:** This codelab is deprecated. For similar functionality, use the [Full stack store loccator](https://developers.google.com/codelabs/maps-platform/full-stack-store-locator) codelab instead.
 
 # NYC Subway Station Locator
+[![HitCount](http://hits.dwyl.com/nitrek/nyc-subway-station-locator.svg)](http://hits.dwyl.com/nitrek/nyc-subway-station-locator)
 
 These are the resource files needed for the [NYC Subway Station Locator](https://codelabs.developers.google.com/codelabs/nyc-subway-station-locator/)
 code lab from Google.
